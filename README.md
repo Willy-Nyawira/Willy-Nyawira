@@ -14,12 +14,21 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ### Profile Summary
+As a dedicated actuarial scientist with a strong background in financial modeling, valuation analysis, and business intelligence, I am driven by a passion for leveraging technology to tackle complex challenges. My diverse skill set includes expertise in statistics, mathematics, and data science, complemented by hands-on experience in software development.
 
-I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
-<br><br>
-In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
-<br><br>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Willy-Nyawira?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 nyawiramwangi394@gmail.com
+**Actuarial and Financial Expertise:**
+With a focus on actuarial science, I have successfully completed the Financial Modeling and Valuation Analyst (FMVA) certification, demonstrating proficiency in financial modeling, business forecasting, and valuation techniques. My analytical skills extend to risk assessment, ensuring informed decision-making in financial contexts.
+
+**Data Science and Business Intelligence:**
+In addition to my actuarial background, I bring a wealth of experience in data science and business intelligence. I have applied advanced statistical methods, machine learning, and natural language processing (NLP) to derive meaningful insights from data. My portfolio showcases projects that demonstrate my ability to harness data for strategic decision-making.
+
+**Continuous Learning and Growth:**
+Embracing a mindset of lifelong learning, I stay abreast of industry trends and advancements. My commitment to personal and professional growth is reflected in my proactive approach to acquiring new skills and exploring emerging technologies.
+
+**Collaboration and Impact:**
+I am dedicated to making a meaningful impact at the intersection of actuarial science, data science, and software development. My GitHub portfolio showcases my contributions and projects, demonstrating my commitment to excellence. If you share a vision for collaborative innovation and lasting impact, I invite you to reach out for potential collaboration at 📫 nyawiramwangi394@gmail.com.
+
+Let's embark on a journey of mutual growth and professional advancement.
 
 
 #### Professional Links:
