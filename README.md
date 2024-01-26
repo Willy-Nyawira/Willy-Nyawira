@@ -91,14 +91,12 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.24-4479A1.svg)](https://dev.mysql.com/doc/refman/8.0/en/)
----
 <!-- ### 📷 Image Processing
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.5.0-brightgreen.svg)](https://opencv.org/)
 [![Scikit--image](https://img.shields.io/badge/Scikit--image-0.17.3-blue.svg)](https://scikit-image.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/) -->
----
 ### 📊 Data Visualization
 
 [![PowerBI](https://img.shields.io/badge/Powerbi-2023.0-blue.svg)](https://powerbi.microsoft.com/en-us/downloads/)
