@@ -100,13 +100,11 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 ### 📊 Data Visualization
 
 [![PowerBI](https://img.shields.io/badge/Powerbi-2023.0-blue.svg)](https://powerbi.microsoft.com/en-us/downloads/)
----
 <!-- ### 🤖 ML/DL Frameworks
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-orange.svg)](https://www.tensorflow.org/) 
 [![Keras](https://img.shields.io/badge/Keras-2.5.0-blue.svg)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-red.svg)](https://pytorch.org/) -->
----
 <!-- ### 🗣️ NLP
 
 [![NLTK](https://img.shields.io/badge/NLTK-3.6.0-yellow.svg)](https://www.nltk.org/)
@@ -115,7 +113,6 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![RASA](https://img.shields.io/badge/RASA-3.11.0-green.svg)](https://rasa.com/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
 [![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html) -->
----
 <!-- ### 🤖 AI/ML Applications -->
 
 <!-- [![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Classification_in_machine_learning)
