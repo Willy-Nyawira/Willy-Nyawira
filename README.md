@@ -68,11 +68,11 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30"> -->
     <!-- <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30"> -->
     <!-- <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30"> -->
-    <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
-    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
-    <img src="./Images/Icons/download.jfif" height="30">
-    <img src="./Images/Icons/oracle.jfif" height="30">
-    <img src="./Images/Icons/springboot.jfif" height="30">
+    <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="40">
+    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="40">
+    <img src="./Images/Icons/download.jfif" height="40">
+    <img src="./Images/Icons/oracle.jfif" height="40">
+    <img src="./Images/Icons/springboot.jfif" height="40">
     <!-- <img src="./Images/Icons/Heroku_logo.svg.png" height="30"> -->
   <br>
 </p>
@@ -175,7 +175,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg) -->
 <br><br>
-Thank you for taking the time to visit my GitHub profile! 🙏🏼
+Thank you for taking time to visit my GitHub profile! 🙏🏼
 
 ---
 
