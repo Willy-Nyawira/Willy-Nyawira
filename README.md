@@ -14,7 +14,7 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ### Profile Summary
-As a dedicated actuarial scientist with a strong background in financial modeling, valuation analysis, and business intelligence, I am driven by a passion for leveraging technology to tackle complex challenges. My diverse skill set includes expertise in statistics, mathematics, and data science, complemented by hands-on experience in software development.
+As a dedicated actuary with a strong background in financial modeling, valuation analysis, and business intelligence, I am driven by a passion for leveraging technology to tackle complex challenges. My diverse skill set includes expertise in statistics, mathematics, and data science, complemented by hands-on experience in software development.
 
 **Actuarial and Financial Expertise:**
 With a focus on actuarial science, I have successfully completed the Financial Modeling and Valuation Analyst (FMVA) certification, demonstrating proficiency in financial modeling, business forecasting, and valuation techniques. My analytical skills extend to risk assessment, ensuring informed decision-making in financial contexts.
