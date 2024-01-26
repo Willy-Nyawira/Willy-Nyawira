@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="" width="200" height="200">
+  <img src="https://github.com/Willy-Nyawira/Willy-Nyawira/blob/master/Images/Icons/avatar.jfif" width="200" height="200">
 </p>
 
 ### Actuary | Software Developer
