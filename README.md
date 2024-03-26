@@ -94,7 +94,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![Python](https://img.shields.io/badge/Python-3.9.4-blue.svg)](https://www.python.org/downloads/release/python-394/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green.svg)](https://pandas.pydata.org/)
-<!-- [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-0.13.0-yellow.svg)](https://www.statsmodels.org/stable/index.html)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/) -->
 ---
@@ -102,7 +102,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.24-4479A1.svg)](https://dev.mysql.com/doc/refman/8.0/en/)
-<!-- ### 📷 Image Processing
+### 📷 Image Processing
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.5.0-brightgreen.svg)](https://opencv.org/)
 [![Scikit--image](https://img.shields.io/badge/Scikit--image-0.17.3-blue.svg)](https://scikit-image.org/)
@@ -147,7 +147,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Feature_engineering)
 [![Model Building and Evaluation](https://img.shields.io/badge/Model%20Building%20and%20Evaluation-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Model_selection)
 ---
-<!-- ### :cloud: AWS
+### :cloud: AWS
 
 [![SageMaker](https://img.shields.io/badge/AWS-SageMaker-red.svg)](https://aws.amazon.com/sagemaker/)
 [![CloudFront](https://img.shields.io/badge/AWS-CloudFront-red.svg)](https://aws.amazon.com/cloudfront/)
