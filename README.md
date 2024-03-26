@@ -19,9 +19,10 @@ As a dedicated actuary with a strong background in financial modeling, valuation
 
 **Actuarial and Financial Expertise:**
 With a focus on actuarial science, I have successfully completed the Financial Modeling and Valuation Analyst (FMVA) certification, demonstrating proficiency in financial modeling, business forecasting, and valuation techniques. My analytical skills extend to risk assessment, ensuring informed decision-making in financial contexts.
+I have worked in a financial institution with experience in bank operations,insurance,money transfers,audit,account management,marketing and digitization.
 
 **Data Science and Business Intelligence:**
-In addition to my actuarial background, I bring a wealth of experience in data science and business intelligence. I have applied advanced statistical methods, machine learning, and natural language processing (NLP) to derive meaningful insights from data. My portfolio showcases projects that demonstrate my ability to harness data for strategic decision-making.
+In addition to my actuarial background, I bring a wealth of experience in data science and business intelligence. I have applied advanced statistical methods, machine learning, and natural language processing (NLP) to derive meaningful insights from data. My portfolio showcases projects that demonstrate my ability to harness data for strategic decision-making.I also possess a certification in Business Intelligence and Data Analysis-BIDA.
 
 **Continuous Learning and Growth:**
 Embracing a mindset of lifelong learning, I stay abreast of industry trends and advancements. My commitment to personal and professional growth is reflected in my proactive approach to acquiring new skills and exploring emerging technologies.
@@ -124,7 +125,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![RASA](https://img.shields.io/badge/RASA-3.11.0-green.svg)](https://rasa.com/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
 [![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html) -->
-### 🤖 AI/ML Applications -->
+### 🤖 AI/ML Applications 
 
 [![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Classification_in_machine_learning)
 [![Regression](https://img.shields.io/badge/Regression-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Regression_analysis)
