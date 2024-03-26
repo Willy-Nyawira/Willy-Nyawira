@@ -96,7 +96,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green.svg)](https://pandas.pydata.org/)
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-0.13.0-yellow.svg)](https://www.statsmodels.org/stable/index.html)
-[![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/) -->
+[![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/) 
 ---
 ### 💾 Database Management
 
@@ -107,7 +107,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.5.0-brightgreen.svg)](https://opencv.org/)
 [![Scikit--image](https://img.shields.io/badge/Scikit--image-0.17.3-blue.svg)](https://scikit-image.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/) -->
+[![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/) 
 ### 📊 Data Visualization
 
 [![PowerBI](https://img.shields.io/badge/Powerbi-2023.0-blue.svg)](https://powerbi.microsoft.com/en-us/downloads/)
@@ -124,9 +124,9 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![RASA](https://img.shields.io/badge/RASA-3.11.0-green.svg)](https://rasa.com/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
 [![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html) -->
-<!-- ### 🤖 AI/ML Applications -->
+### 🤖 AI/ML Applications -->
 
-<!-- [![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Classification_in_machine_learning)
+[![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Classification_in_machine_learning)
 [![Regression](https://img.shields.io/badge/Regression-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Regression_analysis)
 [![Clustering](https://img.shields.io/badge/Clustering-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Cluster_analysis)
 [![Image Classification](https://img.shields.io/badge/Image%20Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Image_classification)
@@ -137,7 +137,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Fraud_detection) 
 [![Object Tracking and Localization](https://img.shields.io/badge/Object%20Tracking%20and%20Localization-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Object_tracking) 
 [![Q-Learning](https://img.shields.io/badge/Q--Learning-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Q-learning) 
-[![DQN](https://img.shields.io/badge/DQN-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Deep_Q-network) -->
+[![DQN](https://img.shields.io/badge/DQN-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Deep_Q-network) 
 ---
 ### 📊 Data Science and ML
 
@@ -166,27 +166,28 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![Batch](https://img.shields.io/badge/AWS-Batch-red.svg)](https://aws.amazon.com/batch/)
 [![Step Functions](https://img.shields.io/badge/AWS-Step%20Functions-red.svg)](https://aws.amazon.com/step-functions/)
 [![IAM](https://img.shields.io/badge/AWS-IAM-red.svg)](https://aws.amazon.com/iam/)
-[![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-red.svg)](https://aws.amazon.com/cloudwatch/) -->
+[![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-red.svg)](https://aws.amazon.com/cloudwatch/) 
 
 ---
 ### 📜 Miscellaneous
 
 [![Git](https://img.shields.io/badge/Git-v2.31.0-blue.svg)](https://git-scm.com/)
-<!-- [![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/) -->
-<!-- [![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/) -->
+[![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/) -
+[![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/) -->
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Interactive_Computing-orange.svg)](https://jupyter.org/)
 [![Lab](https://img.shields.io/badge/Lab-Jupyter_Lab-lightblue.svg)](https://jupyterlab.readthedocs.io/en/stable/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Collaborative_Computing-yellow.svg)](https://colab.research.google.com/)
-<!-- [![MS Office](https://img.shields.io/badge/MS_Office-Productivity_Suite-blue.svg)](https://products.office.com/en-us/office-suite) -->
-<!-- [![Requests](https://img.shields.io/badge/Requests-HTTP_Library-green.svg)](https://docs.python-requests.org/en/2.25.1/)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -->
+[![MS Office](https://img.shields.io/badge/MS_Office-Productivity_Suite-blue.svg)](https://products.office.com/en-us/office-suite) -->
+[![Requests](https://img.shields.io/badge/Requests-HTTP_Library-green.svg)](https://docs.python-requests.org/en/2.25.1/)
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
 <!-- ---
 ![Brian Kipkoech's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-kipkoech-tanui&show_icons=true&theme=midnight-purple)
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg) -->
 <br><br>
-Thank you for taking time to visit my GitHub profile! 🙏🏼
+Thank you for taking time to visit my GitHub profile!
+I really appreciate 🙏🏼
 
 ---
 
