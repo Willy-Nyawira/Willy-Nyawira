@@ -50,6 +50,8 @@ Let's embark on a journey of mutual growth and professional advancement.
 :comet: Data Analysis <br>
 :comet: Database Administration <br>
 :comet: Banking <br>
+:comet: Oracle Apps Developer <br>
+:comet: Newgen Apps Developer <br>
 
 ---
 ## Skills 
@@ -61,31 +63,31 @@ Let's embark on a journey of mutual growth and professional advancement.
     <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
     <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
     <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
-    <!-- <img src="./Images/Icons/scikit-learn-logo-small.png" height="30"> -->
+    <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
     <!-- <img src="./Images/Icons/statsmodels-logo-v2.svg" height="30"> -->
-    <!-- <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30"> -->
+    <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
-    <!-- <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30"> -->
+    <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
     <!-- <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30"> -->
-    <!-- <img src="./Images/Icons/Matplotlib_logo.svg" height="30"> -->
+    <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
     <!-- <img src="./Images/Icons/seaborn_logo.svg" height="30"> -->
     <!-- <img src="./Images/Icons/Tensorflow_logo.png" height="30"> -->
     <!-- <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30"> -->
-    <!-- <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30"> -->
-    <!-- <img src="./Images/Icons/SageMaker-300x150.jpg" height="30"> -->
-    <!-- <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30"> -->
+    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
+    <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
+    <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
     <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
     <!-- <img src="./Images/Icons/Twilio-logo-red.svg.png" height="30">
     <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30"> -->
-    <!-- <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30"> -->
-    <!-- <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30"> -->
+    <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30">
+    <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30">
     <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="40">
     <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="40">
     <img src="./Images/Icons/download.jfif" height="40">
     <img src="./Images/Icons/oracle.jfif" height="40">
     <img src="./Images/Icons/springboot.jfif" height="40">
-    <!-- <img src="./Images/Icons/Heroku_logo.svg.png" height="30"> -->
+    <img src="./Images/Icons/Heroku_logo.svg.png" height="30">
   <br>
 </p>
 
@@ -173,12 +175,12 @@ Let's embark on a journey of mutual growth and professional advancement.
 ### 📜 Miscellaneous
 
 [![Git](https://img.shields.io/badge/Git-v2.31.0-blue.svg)](https://git-scm.com/)
-[![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/) -
-[![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/) -->
+[![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/) 
+[![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Interactive_Computing-orange.svg)](https://jupyter.org/)
 [![Lab](https://img.shields.io/badge/Lab-Jupyter_Lab-lightblue.svg)](https://jupyterlab.readthedocs.io/en/stable/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Collaborative_Computing-yellow.svg)](https://colab.research.google.com/)
-[![MS Office](https://img.shields.io/badge/MS_Office-Productivity_Suite-blue.svg)](https://products.office.com/en-us/office-suite) -->
+[![MS Office](https://img.shields.io/badge/MS_Office-Productivity_Suite-blue.svg)](https://products.office.com/en-us/office-suite)
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Library-green.svg)](https://docs.python-requests.org/en/2.25.1/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
