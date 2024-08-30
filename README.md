@@ -184,10 +184,10 @@ Let's embark on a journey of mutual growth and professional advancement.
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Library-green.svg)](https://docs.python-requests.org/en/2.25.1/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
-<!-- ---
-![Brian Kipkoech's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-kipkoech-tanui&show_icons=true&theme=midnight-purple)
+---
+![Willy Nyawira's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy-nyawira&show_icons=true&theme=midnight-purple)
 <br>
-<!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/willy-nyawira/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 Thank you for taking time to visit my GitHub profile!
 I really appreciate 🙏🏼
