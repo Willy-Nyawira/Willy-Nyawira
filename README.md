@@ -187,7 +187,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 ---
 ![Willy Nyawira's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy-nyawira&show_icons=true&theme=midnight-purple)
 <br>
-![Snake animation](https://github.com/willy-nyawira/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/willy-nyawira/willy-nyawira/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 Thank you for taking time to visit my GitHub profile!
 I really appreciate 🙏🏼
